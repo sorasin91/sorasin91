@@ -12,7 +12,7 @@ With 12 years of experience in diverse fields, such as banking, event management
 **Cloud:** GCP<br>
 
 ## How to reach me 📫
-**Email**: sora.fullstack@gmail.com
+**Email**: sora.sin91@gmail.com
 
 ![Sora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorasin91&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sorasin91&layout=compact&theme=radical)
